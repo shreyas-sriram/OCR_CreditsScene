@@ -7,4 +7,4 @@ Ability to skip through an entire movie file to begin OCR only at the start of t
 
 
 To run:
->>python3 OCR_Image.py filename.mp4
+>> python3 OCR_Image.py filename.mp4
