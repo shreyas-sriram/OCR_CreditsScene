@@ -1,10 +1,12 @@
-# OCR_CreditsScene
-This program uses Tesseract OCR Engine to retrieve names from a credits scene and helps search for a specific name.
+# credits-scene-ocr
+A quick project while learning python.
 
 
-TO ADD:
-Ability to skip through an entire movie file to begin OCR only at the start of the credit scene.
+## TODO
+- [ ] Ability to skip through an entire video file to begin OCR only at the start of the credit scene
 
 
-To run:
+## Usage
+```
 python3 OCR_Image.py filename.mp4
+```
